@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>css3menu.com</title>
+		<!-- Start css3menu.com HEAD section -->
+	<link rel="stylesheet" href="CSS3 Menu1_files/css3menu1/style.css" type="text/css" /><style type="text/css">._css3m{display:none}</style>
+	<!-- End css3menu.com HEAD section -->
+
+	
+</head>
+<body style="background-color:#EBEBEB">
+<!-- Start css3menu.com BODY section -->
+<ul id="css3menu1" class="topmenu">
+	<li class="topfirst"><a href="index_a.jsp" style="height:24px;line-height:24px;"><img src="CSS3 Menu1_files/css3menu1/home2.png" alt=""/>Home</a></li>
+	<li class="topmenu"><a href="#" style="height:24px;line-height:24px;"><span><img src="CSS3 Menu1_files/css3menu1/256base-new-over.png" alt=""/>User Application</span></a>
+	<ul>
+		<li><a href="#">User Application View</a></li>
+		<li><a href="#">Application Accept/Reject</a></li>
+	</ul></li>
+	<li class="topmenu"><a href="#" style="height:24px;line-height:24px;"><span><img src="CSS3 Menu1_files/css3menu1/256base-new.png" alt=""/>Political Applications</span></a>
+	<ul>
+		<li><a href="#">Political Applications View</a></li>
+		<li><a href="#">Accept/Reject</a></li>
+	</ul></li>
+	<li class="topmenu"><a href="#" style="height:24px;line-height:24px;"><span><img src="CSS3 Menu1_files/css3menu1/256base-open.png" alt=""/>Results</span></a>
+	<ul>
+		<li><a href="#">View Result</a></li>
+		<li><a href="#">Final Result</a></li>
+	</ul></li>
+	<li class="toplast"><a href="login.jsp" style="height:24px;line-height:24px;"><img src="CSS3 Menu1_files/css3menu1/register1.png" alt=""/>Log Out</a></li>
+</ul><p class="_css3m"><a href="http://css3menu.com/">CSS Default Button Style</a> by Css3Menu.com</p>
+<!-- End css3menu.com BODY section -->
+
+</body>
+</html>
